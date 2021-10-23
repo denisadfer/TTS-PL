@@ -1,5 +1,7 @@
-<h1>Code from Mid-Test Pemrograman Lanjut</h1>
-<h3>Impelementation of Design Pattern with Framework using PHP</h3>
+###################
+Code from Mid-Test Pemrograman Lanjut
+Impelementation of Design Pattern with Framework using PHP
+###################
 
 ###################
 What is CodeIgniter
