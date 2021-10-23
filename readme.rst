@@ -1,7 +1,5 @@
-###################
 Code from Mid-Test Pemrograman Lanjut
 Impelementation of Design Pattern with Framework using PHP
-###################
 
 ###################
 What is CodeIgniter
